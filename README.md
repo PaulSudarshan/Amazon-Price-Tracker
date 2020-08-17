@@ -1,4 +1,7 @@
 # Amazon-Price-Tracker
+
+[![HitCount](http://hits.dwyl.com/PaulSudarshan/Amazon-Price-Tracker.svg)](http://hits.dwyl.com/PaulSudarshan/Amazon-Price-Tracker)
+
 This simple python project helps you in keeping a track of the price of your favorite items on any any e-commerce (Amazon in our case). If you ever wanted to automate the process of daily checking the price of any item whether it dropped on certain days, this app serves this purpose. It not only keeps a track of the price but also alerts you via mail when the price falls below a certain predefined (by you) value. So you can quickly grab it before anyone else does! 
 
 In this project i have taken the example of a sample item of Laptop price tracking from Amazon website as shown below:-
